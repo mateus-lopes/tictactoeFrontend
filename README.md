@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 
 this is an easy project with React.
 
