@@ -14,9 +14,9 @@
   },
   "homepage": "https://github.com/mateus-lopes/tic-tac-toe#readme",
   "keywords": [
-      "express",
-      "webpack",
-      "node"
+    "express",
+    "webpack",
+    "node"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -30,8 +30,9 @@
     "cerebral": "^0.25.1",
     "cerebral-baobab": "^0.4.2",
     "cerebral-react": "^0.6.0",
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.0.3",
@@ -61,7 +62,7 @@
     "stats-webpack-plugin": "^0.2.1",
     "style-loader": "^0.12.4",
     "webpack": "^1.12.2",
-    "webpack-dev-middleware": "^1.2.0",
-    "webpack-hot-middleware": "^2.2.0"
+    "webpack-dev-middleware": "^1.12.2",
+    "webpack-hot-middleware": "^2.25.4"
   }
 }
