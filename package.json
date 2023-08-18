@@ -30,9 +30,9 @@
     "cerebral": "^0.25.1",
     "cerebral-baobab": "^0.4.2",
     "cerebral-react": "^0.6.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.0.3",
@@ -54,7 +54,6 @@
     "mocha": "^2.3.3",
     "mocha-jsdom": "^1.0.0",
     "postcss-loader": "^0.6.0",
-    "react-addons-test-utils": "^0.14.3",
     "react-transform-hmr": "^1.0.0",
     "rimraf": "^2.4.3",
     "sinon": "^1.16.1",
