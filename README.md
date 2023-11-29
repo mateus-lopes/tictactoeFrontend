@@ -1,3 +1,4 @@
+![Em Andamento](https://img.shields.io/badge/Status-Em%20Andamento-green)
 # Tic-Tac-Toe
 
 this is an easy project with React.
